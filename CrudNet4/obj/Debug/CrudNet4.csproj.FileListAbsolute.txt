@@ -1,0 +1,6 @@
+C:\Users\RicardoMontalvoAcost\Desktop\CRUD .NET4\CrudNet4\bin\Debug\CrudNet4.exe
+C:\Users\RicardoMontalvoAcost\Desktop\CRUD .NET4\CrudNet4\bin\Debug\CrudNet4.pdb
+C:\Users\RicardoMontalvoAcost\Desktop\CRUD .NET4\CrudNet4\obj\Debug\CrudNet4.csproj.AssemblyReference.cache
+C:\Users\RicardoMontalvoAcost\Desktop\CRUD .NET4\CrudNet4\obj\Debug\CrudNet4.csproj.CoreCompileInputs.cache
+C:\Users\RicardoMontalvoAcost\Desktop\CRUD .NET4\CrudNet4\obj\Debug\CrudNet4.exe
+C:\Users\RicardoMontalvoAcost\Desktop\CRUD .NET4\CrudNet4\obj\Debug\CrudNet4.pdb
